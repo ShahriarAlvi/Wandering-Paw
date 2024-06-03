@@ -8,9 +8,6 @@ Wandering Paw is a 2D adventure game built using the libGDX framework. The playe
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 - Player character control with smooth movement
